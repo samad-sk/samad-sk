@@ -2,7 +2,7 @@
 I’m interested in understanding data, finding patterns, and communicating insights clearly.  
 I focus on practical analysis and learning through hands-on projects.
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -11,8 +11,6 @@ I focus on practical analysis and learning through hands-on projects.
 - **Data Visualization:** Power BI / Matplotlib / Seaborn
 - **Spreadsheets:** Excel (analysis, reporting)
 - **Tools:** Jupyter Notebook, Git & GitHub
-
----
 
 ## 📌 Selected Projects
 
@@ -28,7 +26,7 @@ I focus on practical analysis and learning through hands-on projects.
   Short one-line description (optional third project)  
   🔗 [GitHub repo link]
 
----
+
 
 ## 🌱 Currently Working On
 
@@ -36,13 +34,11 @@ I focus on practical analysis and learning through hands-on projects.
 - Building end-to-end data analysis projects  
 - Strengthening fundamentals in statistics and data analysis
 
----
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/samadsk317/
 - 📧 Email: samadshaikh22005@gmail.com
 
----
 
 _Interested in practical, data-driven problem solving._
