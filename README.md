@@ -1,84 +1,17 @@
-# 👋 Hi, I'm Juss a Coder
+<h1 align="center">Hi 👋, I'm Samad Shaikh</h1>
+<h3 align="center">Aspiring Data Analyst</h3>
 
-🎯 **Aspiring Data Analyst | Python • SQL • Excel • Power BI**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sksamad3&label=Profile%20views&color=0e75b6&style=flat" alt="sksamad3" /> </p>
 
-I’m a fresher data analyst passionate about turning raw data into meaningful insights. I enjoy working with real-world datasets, building dashboards, and solving business problems using data.
+- 🔭 I’m currently working on **xproject**
 
----
+- 🌱 I’m currently learning **SQL**
 
-## 🔍 About Me
+- 📫 How to reach me **samadshaikh22005@gmail.com**
 
-- 📊 Strong foundation in **Data Analysis & Data Cleaning**
-- 🐍 Comfortable with **Python (Pandas, NumPy, Matplotlib, Seaborn)**
-- 🗄️ Skilled in **SQL (Joins, Subqueries, Window Functions)**
-- 📈 Experienced with **Excel (Pivot Tables, VLOOKUP/XLOOKUP, Charts)**
-- 📊 Beginner–Intermediate **Power BI** for dashboards & reports
-- 🌱 Currently learning **Advanced Analytics & Machine Learning basics**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-
-## 🛠️ Technical Skills
-
-**Programming & Querying**
-- Python
-- SQL (MySQL / MS SQL Server)
-
-**Data Analysis & Visualization**
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Power BI
-
-**Tools**
-- Excel
-- Jupyter Notebook
-- Git & GitHub
-
----
-
-## 📂 Featured Projects
-
-### 📌 Sales Data Analysis
-- Cleaned and analyzed sales data using Python & SQL
-- Identified top-performing products and seasonal trends
-- Created visual insights using Matplotlib and Power BI
-
-### 📌 Customer Churn Analysis
-- Performed exploratory data analysis (EDA)
-- Built RFM-based insights to understand customer behavior
-- Derived actionable business recommendations
-
-### 📌 Market Basket Analysis
-- Used association rule mining concepts
-- Identified frequently bought item combinations
-- Applied insights to improve cross-selling strategies
-
-👉 *More projects available in my repositories.*
-
----
-
-## 📈 What I’m Currently Working On
-
-- Improving SQL query optimization
-- Building end-to-end data analysis projects
-- Learning statistics for data science
-- Preparing for **Data Analyst internships & entry-level roles**
-
----
-
-## 📫 Connect With Me
-
-- 💼 **GitHub:** https://github.com/your-username
-- 🔗 **LinkedIn:** https://linkedin.com/in/your-profile
-- 📧 **Email:** your.email@example.com
-
----
-
-## ⭐ Goals
-
-- Land a **Data Analyst Internship / Entry-Level Role**
-- Build impactful, real-world data projects
-- Continuously grow as a data professional
-
----
-
-> *“Without data, you’re just another person with an opinion.”* — W. Edwards Deming
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
