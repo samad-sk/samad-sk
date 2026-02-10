@@ -1,22 +1,57 @@
-<h1 align="center">Hi 👋, I'm Samad Shaikh</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+## 👋 Hi, I’m [Your Name]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sksamad3&label=Profile%20views&color=0e75b6&style=flat" alt="sksamad3" /> </p>
+**Translating data into meaningful insights.**  
+Working with real-world data to support better decisions.
 
-- 🔭 I’m currently working on **xproject**
+---
 
-- 🌱 I’m currently learning **SQL**
+## 🧩 About Me
 
-- 📫 How to reach me **samadshaikh22005@gmail.com**
+I’m interested in understanding data, finding patterns, and communicating insights clearly.  
+I focus on practical analysis and learning through hands-on projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samadsk317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samadsk317" height="30" width="40" /></a>
-<a href="https://kaggle.com/shaikhsamad317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shaikhsamad317" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a> 
-  <a> C++ Programming </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 🛠️ Skills & Tools
+
+- **Programming & Analysis:** Python (Pandas, NumPy)
+- **Databases:** SQL (joins, subqueries, aggregations)
+- **Data Visualization:** Power BI / Matplotlib / Seaborn
+- **Spreadsheets:** Excel (analysis, reporting)
+- **Tools:** Jupyter Notebook, Git & GitHub
+
+---
+
+## 📌 Selected Projects
+
+- **[Project Name 1]**  
+  Short one-line description of what problem you solved  
+  🔗 [GitHub repo link]
+
+- **[Project Name 2]**  
+  Short one-line description of analysis or insight  
+  🔗 [GitHub repo link]
+
+- **[Project Name 3]**  
+  Short one-line description (optional third project)  
+  🔗 [GitHub repo link]
+
+---
+
+## 🌱 Currently Working On
+
+- Improving SQL and query logic  
+- Building end-to-end data analysis projects  
+- Strengthening fundamentals in statistics and data analysis
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [your LinkedIn link]
+- 📧 Email: [your email]
+- 📊 Kaggle: [your Kaggle link] (optional)
+
+---
+
+_Interested in practical, data-driven problem solving._
