@@ -1,46 +1,18 @@
-## 🧩 About Me
-I’m interested in understanding data, finding patterns, and communicating insights clearly.  
-I focus on practical analysis and learning through hands-on projects.
+# 🌸 Hey there, welcome to my GitHub!
 
-![Image](https://github.com/user-attachments/assets/27e33c85-455c-4955-8027-016773aafd46)
+I’m a **Data Analyst** passionate about building projects, exploring new tools, and making data tell a story. Here, you'll find:  
 
+- 🛠️ Projects I’m building or contributing to  
+- 📊 Interesting data analyses and dashboards  
+- 🌱 Exploring new techniques, tools, and datasets  
 
+Whether you’re here to peek at my work or just curious about data, you’re in the right place! 🫶  
 
-## 🛠️ Skills & Tools
+Let’s connect,learn and grow together. Where curiosity meets code and data comes to life. 🍪💻  
 
-- **Programming & Analysis:** Python (Pandas, NumPy)
-- **Databases:** SQL (joins, subqueries, aggregations)
-- **Data Visualization:** Power BI / Matplotlib / Seaborn
-- **Spreadsheets:** Excel (analysis, reporting)
-- **Tools:** Jupyter Notebook, Git & GitHub
+---
 
-## 📌 Selected Projects
+**Skills:** Python | SQL | Power BI | DAX | Excel | Git  
 
-- **[Project Name 1]**  
-  Short one-line description of what problem you solved  
-  🔗 [GitHub repo link]
-
-- **[Project Name 2]**  
-  Short one-line description of analysis or insight  
-  🔗 [GitHub repo link]
-
-- **[Project Name 3]**  
-  Short one-line description (optional third project)  
-  🔗 [GitHub repo link]
-
-
-
-## 🌱 Currently Working On
-
-- Improving SQL and query logic  
-- Building end-to-end data analysis projects  
-- Strengthening fundamentals in statistics and data analysis
-
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/samadsk317/
-- 📧 Email: samadshaikh22005@gmail.com
-
-
-_Interested in practical, data-driven problem solving._
+**Portfolio / Socials:**  
+[Portfolio Website](#) | [LinkedIn](#) | [YouTube / Blog](#)
